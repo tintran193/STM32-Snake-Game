@@ -1,5 +1,5 @@
 # STM32-Snake-Game
-A handheld arcade game developed on the STM32F103C8T6 (Blue Pill). This project demonstrates low-level hardware control, real-time logic, and optimized display interfacing.
+A handheld arcade game developed on the STM32F103C8T6 (Blue Pill).
 
 ## Tech Stack
 MCU: STM32F103 (ARM Cortex-M3, 72MHz).
