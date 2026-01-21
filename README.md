@@ -2,7 +2,7 @@
 A handheld arcade game developed on the STM32F103C8T6 (Blue Pill).
 
 ## Tech Stack
-MCU: STM32F103 (ARM Cortex-M3, 72MHz).
+MCU: STM32F103C8T6.
 
 Display: 1.8" TFT LCD (ST7735 Driver).
 
