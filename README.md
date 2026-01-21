@@ -33,10 +33,10 @@ GREEN Button (B): Enter
 BLUE Button (A): Reset (Play Again)
 
 ### Game Rules
-Objective: Eat the red food blocks to grow longer and increase your score.
+Objective: Eat the food blocks to grow longer and increase your score.
 
 Scoring: Each food item consumed adds 1 points. The current score is displayed on the top status bar.
 
-Lose Conditions: The snake's head collides with its own body (Self-collision).
+Lose Conditions: The snake's head collides with its own body.
 
 Audio Feedback: A "beep" sound will trigger via the PWM buzzer whenever the snake eats or crashes.
